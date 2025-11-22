@@ -1,0 +1,5 @@
+java architecture 
+its jdk jvm jre 
+
+jdk is a java development kit
+it is 
